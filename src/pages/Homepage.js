@@ -10,7 +10,7 @@ import { RiCustomerService2Fill } from "react-icons/ri"
 // Import Swiper styles
 import 'swiper/css';
 import { Autoplay } from 'swiper';
-import { Button, Card } from 'flowbite-react';
+import { Card } from 'flowbite-react';
 
 function Homepage() {
     const lang = [{ name: "mens", color: "red" }, { name: "womens", color: "pink" }, { name: "kids", color: "green" }, { name: "summer", color: "orange" }, { name: "winter", color: "blue" }];
